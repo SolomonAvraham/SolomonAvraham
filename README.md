@@ -2,8 +2,7 @@
 
 Contact Me -
 
-selmon_a@Hotmail.com<br/>
-My personal Website : ***Working-ON-it***
+selmon_a@Hotmail.com
  
 <!--
 **SolomonAvraham/SolomonAvraham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
