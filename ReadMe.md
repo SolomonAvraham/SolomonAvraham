@@ -9,7 +9,7 @@
 
 - 🌱  i'm currently learning **Node.js**
 
-- 📫  How to reach me **solomonavraham.31@gmail.com**
+- 📫  How to reach me **solomon.avraham31@gmail.com**
  
 
 
