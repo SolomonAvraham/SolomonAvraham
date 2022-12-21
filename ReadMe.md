@@ -7,7 +7,7 @@
 
 
 
-- 🌱  i'm currently learning **Node.js**
+- 🌱  i'm currently learning **MongoDB**
 
 - 📫  How to reach me **solomon.avraham31@gmail.com**
  
