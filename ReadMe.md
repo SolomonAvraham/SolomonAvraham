@@ -11,7 +11,7 @@
  
 
 
-<h4 align="left">Linkedn page : https://www.linkedin.com/in/solomon-avraham-82b8a2234/</h4>
+<h4 align="left">Portfolio: https://solomon-portfolio.onrender.com/</h4>
 <p align="left">
 </p>
 
