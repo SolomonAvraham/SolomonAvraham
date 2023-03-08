@@ -1,4 +1,4 @@
-<h1 align="center"Solomon Avraham</h1>
+<h1 align="center">Solomon Avraham</h1>
 <h3 align="center">Full Stack Developer</h3>
 <img align="right" width="300" alt="GIF" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SolomonAvraham&label=Profile%20views&color=0e75b6&style=flat" alt="solomon" /></p>
