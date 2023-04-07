@@ -9,7 +9,9 @@
 
 <h3 align="center"> 📫   How to Reach Me  📫</h3 >
  <p align="center"><a href="https://www.linkedin.com/in/solomon-avraham-82b8a2234/"  target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/81143/linkedin.svg" width="40" height="40" alt="linkden"/></a> 
-  <a href="mailto:solomon.avraham31@gmail.com"  target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/313130/email.svg" width="40" height="40" alt="linkden"/></a></p>
+  <a href="mailto:solomon.avraham31@gmail.com"  target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/313130/email.svg" width="40" height="40" alt="linkden"/></a>
+  <a href="https://solomon-portfolio.onrender.com/"  target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/178992/home-internet.svg" width="40" height="40" alt="homepage"/></a>
+</p>
 
 
 <h3 align="center">Languages and Tools</h3>
