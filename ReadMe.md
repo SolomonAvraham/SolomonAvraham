@@ -1,5 +1,4 @@
-<h1 align="center">Solomon Avraham</h1>
-<h2 align="center">Full Stack Developer</h2>
+<h3 align="center">Full Stack Developer</h3>
  
 
 
