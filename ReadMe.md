@@ -1,4 +1,4 @@
-<h3 align="center">Full Stack Developer</h3>
+<h1 align="center">Full Stack Developer</h1>
 <hr align="center"/>
 
 <h2 align="center">Languages and Tools</h2>
